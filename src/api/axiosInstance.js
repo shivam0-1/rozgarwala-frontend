@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: import.meta.env.VITE_API_URL,
   headers: {
     "Content-Type": "application/json",
   },
@@ -15,16 +15,14 @@ axiosInstance.interceptors.request.use(
       if (adminToken) {
         config.headers.Authorization = `Bearer ${adminToken}`;
       }
-    }
-
-    // 🔹 User protected APIs (profile, cart, etc.)
+    } 
+    // 🔹 User APIs
     else {
-      const userToken = localStorage.getItem("token"); // or whatever you use
+      const userToken = localStorage.getItem("token");
       if (userToken) {
         config.headers.Authorization = `Bearer ${userToken}`;
       }
     }
-
     return config;
   },
   (error) => Promise.reject(error)
