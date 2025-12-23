@@ -1,0 +1,266 @@
+{
+  "tagline": "प्रतिभा को अवसर से जोड़ना।",
+  "for_workers": "मजदूरों के लिए",
+  "create_profile": "प्रोफ़ाइल बनाएं",
+  "find_work": "काम खोजें",
+  "hire_talent": "प्रतिभा भर्ती करें",
+  "about": "हमारे बारे में",
+  "contact_us": "संपर्क करें",
+  "faqs": "सामान्य प्रश्न",
+  "call": "कॉल करें",
+  "terms": "सेवा की शर्तें",
+  "privacy": "गोपनीयता नीति",
+  "language": "भाषा",
+  "university": "काशी हिन्दू विश्वविद्यालय",
+  "department": "कंप्यूटर विज्ञान",
+  "copyright": "© 2025 रोज़गारवाला",
+  "search_plumber": "प्लम्बर खोजें...",
+  "search_electrician": "इलेक्ट्रीशियन खोजें...",
+  "search_painter": "पेंटर खोजें...",
+  "search_mason": "मिस्त्री खोजें...",
+  "login": "लॉगिन",
+  "signup": "साइन अप",
+
+  "add_to_cart": "कार्ट में जोड़ें",
+  "search_service": "सेवा खोजें...",
+  "search_location": "स्थान खोजें...",
+  "location_delhi": "दिल्ली",
+  "location_mumbai": "मुंबई",
+  "location_bengaluru": "बेंगलुरु",
+  "location_kolkata": "कोलकाता",
+  "services": [
+    "प्लम्बर",
+    "इलेक्ट्रीशियन",
+    "कारपेंटर",
+    "क्लीनर",
+    "पेंटर",
+    "मिस्त्री",
+    "एसी रिपेयर",
+    "मेकैनिक",
+    "माली",
+    "रसोइया",
+    "ड्राइवर",
+    "ट्यूटर",
+    "नर्स",
+    "बेबी सिटर",
+    "लॉन्ड्री",
+    "इंटीरियर डिज़ाइनर",
+    "ब्यूटी सर्विसेस",
+    "होम अप्लायंस रिपेयर",
+    "Other"
+  ],
+  "locations": [
+    "दिल्ली",
+    "मुंबई",
+    "बेंगलुरु",
+    "कोलकाता",
+    "चेन्नई",
+    "हैदराबाद",
+    "पुणे",
+    "अहमदाबाद",
+    "जयपुर",
+    "सूरत",
+    "लखनऊ",
+    "कानपुर",
+    "नागपुर",
+    "इंदौर",
+    "भोपाल",
+    "पटना",
+    "वडोदरा",
+    "राजकोट",
+    "चंडीगढ़",
+    "नोएडा",
+    "गुरुग्राम",
+    "गाज़ियाबाद",
+    "फरीदाबाद",
+    "आगरा",
+    "वाराणसी",
+    "मेरठ",
+    "अमृतसर",
+    "लुधियाना",
+    "जालंधर",
+    "रांची",
+    "रायपुर",
+    "भुवनेश्वर",
+    "गुवाहाटी",
+    "शिलांग",
+    "देहरादून",
+    "शिमला",
+    "गोवा"
+  ],
+  "hero_title": "अपने आसपास भरोसेमंद स्थानीय कामगार खोजें",
+  "hero_subtitle": "इलेक्ट्रीशियन, प्लम्बर, कारपेंटर, मिस्त्री और अधिक",
+  "hero_search_placeholder": "अपना क्षेत्र/पिनकोड दर्ज करें",
+  "hero_hire_worker": "कामगार हायर करें",
+  "hero_choose_service": "सेवा चुनें",
+  "hero_verified_workers": "सत्यापित कामगार",
+  "hero_transparent_pricing": "पारदर्शी कीमतें",
+  "hero_support": "24x7 सहायता",
+
+  "services_heading": "सेवाएँ",
+  "services_subheading": "हम आपको घरेलू कार्यों में सहायता करने के लिए स्थानीय सेवाओं की एक विस्तृत श्रृंखला प्रदान कर रहे हैं",
+
+  "service_plumber": "प्लम्बर",
+  "service_electrician": "इलेक्ट्रीशियन",
+  "service_mason": "मिस्त्री",
+  "service_carpenter": "बढ़ई",
+  "service_painter": "पेंटर",
+  "service_cleaner": "क्लीनर",
+  "service_water_tank": "वॉटर टैंक रिपेयर",
+  "service_more": "और सेवाएँ",
+
+  "view_workers": "वर्कर देखें",
+
+  "trusted_hire_title": "के साथ कामगार हायर करने का स्मार्ट और सुरक्षित तरीका",
+  "trusted_hire_subtitle": "हर काम के लिए सत्यापित पेशेवरों से जुड़ें — तेज़, भरोसेमंद और किफ़ायती। हायरिंग के नए युग का अनुभव करें।",
+
+  "feature_verified_title": "सत्यापित और भरोसेमंद पेशेवर",
+  "feature_verified_desc": "हर RozgarWala कामगार को सत्यापित और बैकग्राउंड जांच के बाद जोड़ा जाता है ताकि भरोसा, गुणवत्ता और आपकी मानसिक शांति सुनिश्चित हो।",
+
+  "feature_pricing_title": "न्यायसंगत और पारदर्शी मूल्य निर्धारण",
+  "feature_pricing_desc": "कोई छुपा हुआ शुल्क नहीं। आप स्पष्ट कीमत तय करते हैं और हर बार जानते हैं कि आप किसके लिए भुगतान कर रहे हैं।",
+
+  "feature_chat_title": "सीधा चैट और बुकिंग",
+  "feature_chat_desc": "हमारी वेबसाइट चैट के माध्यम से तुरंत जुड़ें, बातचीत करें और सेवा बुक करें — बिना किसी बिचौलिए, बिना देरी।",
+
+  "feature_reviews_title": "वास्तविक समीक्षाएँ, वास्तविक लोग",
+  "feature_reviews_desc": "हर रेटिंग सत्यापित ग्राहकों से आती है, जिससे आप भरोसे के साथ सही निर्णय ले सकते हैं।",
+
+  "cta_explore_services": "सेवाएँ देखें",
+  "cta_join_us": "हमसे जुड़ें",
+
+
+  
+ "testimonials_heading": "हमारे उपयोगकर्ता क्या कहते हैं",
+  "testimonials_subheading": "RozgarWala समुदाय से वास्तविक समीक्षाएँ",
+
+  "testimonial_1_name": "अंजलि एस",
+  "testimonial_1_role": "शिक्षिका, सिगरा",
+  "testimonial_1_review": "RozgarWala ने मुझे कुछ ही मिनटों में प्लम्बर खोजने में मदद की। पूरा अनुभव आसान, तेज़ और सुरक्षित रहा। भरोसेमंद कामगार ढूंढने वालों के लिए अत्यधिक अनुशंसित!",
+
+  "testimonial_2_name": "रमेश कुमार",
+  "testimonial_2_role": "इलेक्ट्रीशियन, लंका",
+  "testimonial_2_review": "अब मुझे RozgarWala के माध्यम से नियमित काम मिलता है। यह स्थानीय पेशेवरों के लिए एक वरदान है जो अपने क्षेत्र में स्थायी काम चाहते हैं।",
+
+  "testimonial_3_name": "प्रिया शर्मा",
+  "testimonial_3_role": "गृहिणी, भेलूपुर",
+  "testimonial_3_review": "सत्यापित पेशेवरों को हायर करने के लिए सबसे बेहतरीन प्लेटफ़ॉर्म। जब भी घर में मदद की ज़रूरत होती है, मुझे पूरी सुरक्षा और भरोसा महसूस होता है।",
+
+  "testimonial_4_name": "विकास पटेल",
+  "testimonial_4_role": "पेंटर, कैंट",
+  "testimonial_4_review": "RozgarWala ने मुझे ज़्यादा पहचान दिलाई। अब मुझे सीधे स्थानीय ग्राहकों से बुकिंग मिलती है और मुँह-ज़ुबानी पर निर्भर नहीं रहना पड़ता।",
+
+  "testimonial_5_name": "नेहा वर्मा",
+  "testimonial_5_role": "ब्यूटीशियन, सिगरा",
+  "testimonial_5_review": "RozgarWala के ज़रिये मैंने अपना होम सैलून बिज़नेस बढ़ाया। ग्राहक सत्यापित प्रोफाइल पर भरोसा करते हैं और मुझे बार-बार बुकिंग मिलती है।",
+
+  "testimonial_6_name": "राजेश गुप्ता",
+  "testimonial_6_role": "बढ़ई, अस्सी",
+  "testimonial_6_review": "कुछ ही दिनों में मुझे ज़्यादा बुकिंग मिलने लगी। मेरे जैसे स्थानीय कामगारों के लिए यह एक शानदार प्लेटफ़ॉर्म है। यही स्थानीय रोज़गार का भविष्य है।",
+
+  "finalcta_badge": "प्रीमियम सेवा प्लेटफ़ॉर्म",
+
+  "finalcta_title_line1": "अपने काम को",
+  "finalcta_title_line2": "आसान बनाएं",
+
+  "finalcta_sub_1": "भारत के सबसे तेज़ी से बढ़ते प्लेटफ़ॉर्म से जुड़ें",
+  "finalcta_sub_2": "वाराणसी और चुनिंदा क्षेत्रों में स्थानीय सेवाओं के लिए।",
+
+  "finalcta_hire_today": "आज ही हायर करें",
+  "finalcta_start_earning": "RozgarWala के साथ कमाई शुरू करें",
+
+  "finalcta_availability": "वाराणसी और चुनिंदा क्षेत्रों में उपलब्ध",
+
+  "finalcta_premium_title": "प्रीमियम प्लेटफ़ॉर्म",
+  "finalcta_premium_desc": "हज़ारों पेशेवरों द्वारा भरोसेमंद",
+
+  "finalcta_stat_professionals": "पेशेवर",
+  "finalcta_stat_service": "सेवा समय",
+
+
+
+   "contact_title": "संपर्क करें",
+  "contact_subtitle": "हम आपकी सहायता के लिए यहाँ हैं! फ़ोन, ईमेल या संदेश के माध्यम से हमसे संपर्क करें — हमारी टीम जल्द ही आपसे संपर्क करेगी।",
+
+  "contact_phone": "फ़ोन",
+  "contact_email": "ईमेल",
+  "contact_address": "पता",
+
+  "contact_address_value": "कंप्यूटर साइंस विभाग, बीएचयू, वाराणसी",
+
+  "contact_form_title": "हमें संदेश भेजें",
+
+  "contact_full_name": "पूरा नाम",
+  "contact_full_name_placeholder": "अपना नाम दर्ज करें",
+
+  "contact_email_label": "ईमेल",
+  "contact_email_placeholder": "अपना ईमेल दर्ज करें",
+
+  "contact_message_label": "संदेश",
+  "contact_message_placeholder": "अपना संदेश लिखें...",
+
+  "contact_send_button": "संदेश भेजें",
+
+  "contact_footer": "सभी अधिकार सुरक्षित।",
+
+
+
+  "cart_title": "आपकी कार्ट",
+  "cart_items_count": "{{count}} आइटम",
+
+  "cart_empty_title": "आपकी कार्ट खाली है।",
+  "cart_empty_desc": "शुरू करने के लिए कामगार जोड़ें!",
+
+  "cart_price_per_day": "/ दिन",
+  "cart_remove": "हटाएँ",
+
+  "cart_total": "कुल राशि",
+  "cart_checkout": "चेकआउट",
+
+
+
+
+
+   "login_tagline": "टैलेंट को अवसर से जोड़ना",
+
+  "login_email_label": "ईमेल पता",
+  "login_email_placeholder": "अपना ईमेल दर्ज करें",
+
+  "login_password_label": "पासवर्ड",
+  "login_password_placeholder": "अपना पासवर्ड दर्ज करें",
+
+  "login_remember_me": "मुझे याद रखें",
+  "login_forgot_password": "पासवर्ड भूल गए?",
+
+  "login_button": "लॉग इन करें",
+
+  "login_no_account": "क्या आपका अकाउंट नहीं है?",
+  "login_signup": "साइन अप करें",
+
+
+
+
+  "signup_tagline": "टैलेंट को अवसर से जोड़ना",
+
+  "signup_full_name": "पूरा नाम",
+  "signup_full_name_placeholder": "अपना पूरा नाम दर्ज करें",
+
+  "signup_email": "ईमेल पता",
+  "signup_email_placeholder": "अपना ईमेल दर्ज करें",
+
+  "signup_phone": "मोबाइल नंबर",
+  "signup_phone_placeholder": "अपना मोबाइल नंबर दर्ज करें",
+
+  "signup_password": "पासवर्ड",
+  "signup_password_placeholder": "एक पासवर्ड बनाएं",
+
+  "signup_terms_text": "मैं सहमत हूँ",
+  "signup_terms_link": "नियम एवं शर्तें",
+
+  "signup_button": "साइन अप करें",
+
+  "signup_have_account": "क्या पहले से अकाउंट है?",
+  "signup_login": "लॉग इन करें"
+
+
+}

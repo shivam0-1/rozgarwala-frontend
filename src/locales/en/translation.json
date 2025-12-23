@@ -1,0 +1,266 @@
+{
+  "tagline": "Connecting Talent with Opportunity.",
+  "for_workers": "FOR WORKERS",
+  "create_profile": "Create Profile",
+  "find_work": "Find Work",
+  "hire_talent": "Hire Talent",
+  "about": "ABOUT",
+  "contact_us": "Contact Us",
+  "faqs": "FAQs",
+  "call": "Call",
+  "terms": "Terms of Service",
+  "privacy": "Privacy Policy",
+  "language": "Language",
+  "university": "Banaras Hindu University",
+  "department": "Computer Science",
+  "copyright": "© 2025 Rozgarwala",
+  "search_plumber": "Search Plumber...",
+  "search_electrician": "Search Electrician...",
+  "search_painter": "Search Painter...",
+  "search_mason": "Search Mason...",
+  "login": "Login",
+  "signup": "Signup",
+
+  "add_to_cart": "Add to Cart",
+  "search_service": "Search Service...",
+  "search_location": "Search Location...",
+  "location_delhi": "Delhi",
+  "location_mumbai": "Mumbai",
+  "location_bengaluru": "Bengaluru",
+  "location_kolkata": "Kolkata",
+  "services": [
+    "Plumber",
+    "Electrician",
+    "Carpenter",
+    "Cleaner",
+    "Painter",
+    "Mason",
+    "AC Repair",
+    "Mechanic",
+    "Gardener",
+    "Cook",
+    "Driver",
+    "Tutor",
+    "Nurse",
+    "Baby Sitter",
+    "Laundry",
+    "Interior Designer",
+    "Beauty Services",
+    "Home Appliance Repair",
+    "Other"
+  ],
+  "locations": [
+    "Delhi",
+    "Mumbai",
+    "Bengaluru",
+    "Kolkata",
+    "Chennai",
+    "Hyderabad",
+    "Pune",
+    "Ahmedabad",
+    "Jaipur",
+    "Surat",
+    "Lucknow",
+    "Kanpur",
+    "Nagpur",
+    "Indore",
+    "Bhopal",
+    "Patna",
+    "Vadodara",
+    "Rajkot",
+    "Chandigarh",
+    "Noida",
+    "Gurugram",
+    "Ghaziabad",
+    "Faridabad",
+    "Agra",
+    "Varanasi",
+    "Meerut",
+    "Amritsar",
+    "Ludhiana",
+    "Jalandhar",
+    "Ranchi",
+    "Raipur",
+    "Bhubaneswar",
+    "Guwahati",
+    "Shillong",
+    "Dehradun",
+    "Shimla",
+    "Goa"
+  ],
+
+  "hero_title": "Find Trusted Local Workers Near You",
+  "hero_subtitle": "Electricians, Plumbers, Carpenters, Masons & more",
+  "hero_search_placeholder": "Enter your area/pincode",
+  "hero_hire_worker": "Hire Worker",
+  "hero_choose_service": "Choose Service",
+  "hero_verified_workers": "Verified Workers",
+  "hero_transparent_pricing": "Transparent Pricing",
+  "hero_support": "24x7 Support",
+
+  "services_heading": "Services",
+  "services_subheading": "We are providing a wide range of local services to help you with your chores",
+
+  "service_plumber": "Plumber",
+  "service_electrician": "Electrician",
+  "service_mason": "Mason",
+  "service_carpenter": "Carpenter",
+  "service_painter": "Painter",
+  "service_cleaner": "Cleaner",
+  "service_water_tank": "Water Tank Repair",
+  "service_more": "More Services",
+
+  "view_workers": "View Workers",
+
+  "trusted_hire_title": "The Smarter, Safer Way to Hire with",
+  "trusted_hire_subtitle": "Connecting you to verified professionals for every job — fast, reliable, and affordable. Experience the new era of hiring.",
+
+  "feature_verified_title": "Verified & Trusted Professionals",
+  "feature_verified_desc": "Every RozgarWala worker is verified and background checked to ensure trust, quality, and your peace of mind.",
+
+  "feature_pricing_title": "Fair & Transparent Pricing",
+  "feature_pricing_desc": "No hidden fees. You set clear prices and know exactly what you're paying for — every single time.",
+
+  "feature_chat_title": "Direct Chat & Booking",
+  "feature_chat_desc": "Instantly connect, chat, and schedule services through our website chat — no middlemen, no delays.",
+
+  "feature_reviews_title": "Real Reviews, Real People",
+  "feature_reviews_desc": "Every rating comes from verified customers, so you can hire confidently with authentic community feedback.",
+
+  "cta_explore_services": "Explore Services",
+  "cta_join_us": "Join Us",
+
+ "testimonials_heading": "What Our Users Say",
+  "testimonials_subheading": "Real reviews from the RozgarWala community",
+
+  "testimonial_1_name": "Anjali S",
+  "testimonial_1_role": "Teacher, Sigra",
+  "testimonial_1_review": "RozgarWala helped me find a plumber in minutes. The whole experience was super convenient, fast, and secure. Highly recommended for everyone looking for trusted workers!",
+
+  "testimonial_2_name": "Ramesh Kumar",
+  "testimonial_2_role": "Electrician, Lanka",
+  "testimonial_2_review": "I now get regular work through RozgarWala. It’s a blessing for local professionals who want consistent job opportunities near their area.",
+
+  "testimonial_3_name": "Priya Sharma",
+  "testimonial_3_role": "Housewife, Bhelupur",
+  "testimonial_3_review": "The best app for hiring verified professionals. I feel safe and confident using it every time I need help at home.",
+
+  "testimonial_4_name": "Vikas Patel",
+  "testimonial_4_role": "Painter, Cantt",
+  "testimonial_4_review": "RozgarWala gave me more visibility. I get booked directly by local customers and don’t have to depend on word of mouth anymore.",
+
+  "testimonial_5_name": "Neha Verma",
+  "testimonial_5_role": "Beautician, Sigra",
+  "testimonial_5_review": "I grew my home salon business through RozgarWala. Clients trust verified profiles and I get repeat bookings easily.",
+
+  "testimonial_6_name": "Rajesh Gupta",
+  "testimonial_6_role": "Carpenter, Assi",
+  "testimonial_6_review": "I got more bookings within days. Great platform for local workers like me! It’s the future of local employment.",
+
+
+   "finalcta_badge": "Premium Service Platform",
+
+  "finalcta_title_line1": "Ready to Simplify",
+  "finalcta_title_line2": "Your Work?",
+
+  "finalcta_sub_1": "Join India's fastest-growing platform",
+  "finalcta_sub_2": "for local services in Varanasi & select regions.",
+
+  "finalcta_hire_today": "Hire Today",
+  "finalcta_start_earning": "Start Earning with RozgarWala",
+
+  "finalcta_availability": "Available in Varanasi & select regions",
+
+  "finalcta_premium_title": "Premium Platform",
+  "finalcta_premium_desc": "Trusted by thousands of professionals",
+
+  "finalcta_stat_professionals": "Professionals",
+  "finalcta_stat_service": "Service",
+
+
+
+
+  "contact_title": "Contact Us",
+  "contact_subtitle": "We're here to help you! Reach out to us by phone, email, or message — our team will get back to you soon.",
+
+  "contact_phone": "Phone",
+  "contact_email": "Email",
+  "contact_address": "Address",
+
+  "contact_address_value": "Computer Science Department, BHU, Varanasi",
+
+  "contact_form_title": "Send us a Message",
+
+  "contact_full_name": "Full Name",
+  "contact_full_name_placeholder": "Enter your name",
+
+  "contact_email_label": "Email",
+  "contact_email_placeholder": "Enter your email",
+
+  "contact_message_label": "Message",
+  "contact_message_placeholder": "Write your message...",
+
+  "contact_send_button": "Send Message",
+
+  "contact_footer": "All rights reserved.",
+
+
+
+
+  "cart_title": "Your Cart",
+  "cart_items_count": "{{count}} items",
+
+  "cart_empty_title": "Your cart is empty.",
+  "cart_empty_desc": "Add workers to get started!",
+
+  "cart_price_per_day": "/ day",
+  "cart_remove": "Remove",
+
+  "cart_total": "Total",
+  "cart_checkout": "Checkout",
+
+
+
+
+   "login_tagline": "Connecting Talent with Opportunity",
+
+  "login_email_label": "Email Address",
+  "login_email_placeholder": "Enter your email",
+
+  "login_password_label": "Password",
+  "login_password_placeholder": "Enter your password",
+
+  "login_remember_me": "Remember me",
+  "login_forgot_password": "Forgot password?",
+
+  "login_button": "Login",
+
+  "login_no_account": "Don’t have an account?",
+  "login_signup": "Sign up",
+
+
+
+
+
+   "signup_tagline": "Connecting Talent with Opportunity",
+
+  "signup_full_name": "Full Name",
+  "signup_full_name_placeholder": "Enter your full name",
+
+  "signup_email": "Email Address",
+  "signup_email_placeholder": "Enter your email",
+
+  "signup_phone": "Phone Number",
+  "signup_phone_placeholder": "Enter your phone number",
+
+  "signup_password": "Password",
+  "signup_password_placeholder": "Create a password",
+
+  "signup_terms_text": "I agree to the",
+  "signup_terms_link": "Terms & Conditions",
+
+  "signup_button": "Sign Up",
+
+  "signup_have_account": "Already have an account?",
+  "signup_login": "Log in"
+}
