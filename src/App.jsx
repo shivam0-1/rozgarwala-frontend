@@ -30,7 +30,7 @@ import AllWorker from "./Pages/OurWorkers/AllWorker.jsx";
 import WorkerProfile from "./Pages/OurWorkers/WorkerProfile.jsx";
 
 
-
+import ScrollToTop from "./Components/ScrollToTop.jsx";
 
 
 
@@ -49,9 +49,11 @@ function Layout({ children }) {
 
 function App() {
   return (
+    
     <Router>
       <AuthProvider>
         <Layout>
+           <ScrollToTop />
           <Routes>
             {/* ===== ADMIN ROUTES ===== */}
             <Route path="/admin/*" element={<AdminRoutes />} />
