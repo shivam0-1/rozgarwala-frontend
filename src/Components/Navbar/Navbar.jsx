@@ -159,11 +159,17 @@ const Navbar = () => {
   const handleServiceSelect = (service) => {
     setServiceInput(service);
     setShowServiceSuggestions(false);
+
+    // 🔴 Redirect if location already selected
+    handleSearchRedirect(service, locationInput);
   };
 
   const handleLocationSelect = (location) => {
     setLocationInput(location);
     setShowLocationSuggestions(false);
+
+    // 🔴 Redirect if service already selected
+    handleSearchRedirect(serviceInput, location);
   };
 
   const filteredServices = services.filter((s) =>
@@ -177,6 +183,20 @@ const Navbar = () => {
   const handleCartClick = () => {
     if (!isLoggedIn) navigate("/logincustomer");
     else navigate("/cart");
+  };
+
+  const handleSearchRedirect = (service, location) => {
+    if (!service || !location) return;
+
+    navigate(
+      `/workers?skill=${encodeURIComponent(
+        service
+      )}&location=${encodeURIComponent(location)}`
+    );
+
+    // ✅ Reset navbar inputs so user can search again
+    setServiceInput("");
+    setLocationInput("");
   };
 
   return (

@@ -1,4 +1,9 @@
-import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  useLocation,
+} from "react-router-dom";
 
 import Navbar from "./Components/Navbar/Navbar";
 import Footer from "./Components/Footer/Footer.jsx";
@@ -19,6 +24,15 @@ import AuthProvider from "./auth/AuthProvider";
 import ProtectedRoute from "./auth/ProtectedRoute";
 
 import AdminRoutes from "./routes/AdminRoutes";
+
+import AllWorker from "./Pages/OurWorkers/AllWorker.jsx";
+
+import WorkerProfile from "./Pages/OurWorkers/WorkerProfile.jsx";
+
+
+
+
+
 
 function Layout({ children }) {
   const location = useLocation();
@@ -51,6 +65,9 @@ function App() {
             <Route path="/signupworker" element={<SignupWorker />} />
             <Route path="/logincustomer" element={<LoginCustomer />} />
             <Route path="/loginworker" element={<LoginWorker />} />
+
+            <Route path="/workers" element={<AllWorker />} />
+            <Route path="/workers/:id" element={<WorkerProfile />} />
 
             {/* ===== PROTECTED USER ROUTES ===== */}
             <Route

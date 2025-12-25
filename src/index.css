@@ -22,3 +22,10 @@ body {
 .animate-scaleIn {
   animation: scaleIn 0.18s ease-out;
 }
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

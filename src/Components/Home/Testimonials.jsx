@@ -52,7 +52,7 @@ export default function Testimonials() {
   ];
 
   return (
-    <section className="bg-gradient-to-br from-white via-gray-50 to-rose-50 py-20 relative">
+    <section className="bg-gradient-to-br from-white via-gray-50 to-rose-50 py-10  relative">
       <div className="max-w-6xl mx-auto text-center">
 
         {/* Header */}
